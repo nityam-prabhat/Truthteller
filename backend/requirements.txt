@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+flask-cors
+python-dotenv
+kafka-python
+confluent-kafka
+nltk
+bs4
