@@ -6,3 +6,5 @@ Credentials.txt
 __pycache__/
 *.pyc
 *.keras
+*.h5
+*.zip
