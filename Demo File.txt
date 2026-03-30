@@ -1,0 +1,20 @@
+Demo File
+Text
+- manual 
+	अमेरिका ने भारत पर टैरिफ 50% तक बढ़ा दिया है।
+- url
+	https://www.reddit.com/r/india/comments/1jsql1s/indians_are_quitting_the_safety_net_of_health/
+
+Image
+- ai
+	D:\images dataset\Christane bale_arjun
+- text
+	D:\images dataset\wp_image_text
+	
+Audio
+- url
+	https://www.youtube.com/watch?v=_BywWcl-G1g&t=13s
+- voice
+	India won Champions Trophy 2025 Cricket Cup at Karachi Stadium Pakistan
+- local
+	
