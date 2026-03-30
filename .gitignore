@@ -8,3 +8,5 @@ __pycache__/
 *.keras
 *.h5
 *.zip
+imageModel/deepfake/
+imageModel/imageData/
